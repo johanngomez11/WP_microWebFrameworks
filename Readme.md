@@ -10,6 +10,8 @@ La clase UsersHandler maneja los métodos HTTP POST, GET, PATCH, PUT, y DELETE.
 
 La ruta r"/users" se utiliza para la lista de usuarios (GET /users) y la creación de un usuario (POST /users).
 
+Para poder ejecutar el servidor se tiene que poner el comando "python3 app.py" en la terminal.
+
 # Integrantes del Equipo
 
 - Johann David Gomez Villalobos - 352909
